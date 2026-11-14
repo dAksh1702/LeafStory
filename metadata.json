@@ -1,0 +1,6 @@
+{
+  "name": "LeafStory 2.0",
+  "description": "See how your plant grows. Notice how you grow with it. A calm, reflective plant observation journal pairing human attention with subtle AI perspective.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
